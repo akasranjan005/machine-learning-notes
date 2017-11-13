@@ -1,1 +1,3 @@
 # machine-learning-notes
+
+## Practicals coming soon...
