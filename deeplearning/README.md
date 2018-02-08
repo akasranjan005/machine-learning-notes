@@ -14,3 +14,8 @@
  * Anchor Box
  * YOLO Algorithm
  * Face Verification vs Face Detection
+
+TODO:
+
+* Add description for each of the above topics
+* Add Code Sample for all
