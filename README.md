@@ -12,3 +12,5 @@ Machine Learning is an application of AI. The hierarchy is:
 # Deep Learning
 
 # Tools and Libraries
+
+# Resources
