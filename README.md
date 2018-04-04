@@ -14,7 +14,7 @@ Machine Learning is an application of AI. The hierarchy is:
 # Tools and Libraries
 
 # Resources
+* https://towardsdatascience.com/
 
 # Courses
-
 * https://www.coursera.org/learn/machine-learning
