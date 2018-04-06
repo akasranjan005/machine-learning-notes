@@ -10,6 +10,7 @@ Machine Learning is an application of AI. The hierarchy is:
   * Create Dockerfile for deploying machine learning container with all installed packages
 
 # Data Cleaning
+# Visualisation
 # Regression
 # Classification
 # Deep Learning
