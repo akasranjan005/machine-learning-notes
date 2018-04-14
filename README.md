@@ -9,16 +9,21 @@ Machine Learning is an application of AI. The hierarchy is:
 * ToDo:
   * Create Dockerfile for deploying machine learning container with all installed packages
 
-# Data Cleaning
-# Visualisation
-# Regression
-# Classification
-# Deep Learning
+## Data Cleaning
+## Visualisation
+## Regression
+## Classification
+## Deep Learning
 
-# Tools and Libraries
+## Tools and Libraries
 
-# Resources
+## Resources
 * https://towardsdatascience.com/
 
-# Courses
+## Courses
 * https://www.coursera.org/learn/machine-learning
+
+## Datasets
+* https://www.kaggle.com/datasets
+* http://quandl.com
+* https://www.reddit.com/r/datasets
