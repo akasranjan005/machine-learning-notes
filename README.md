@@ -22,6 +22,7 @@ Machine Learning is an application of AI. The hierarchy is:
 
 ## Courses
 * https://www.coursera.org/learn/machine-learning
+* [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ## Datasets
 * https://www.kaggle.com/datasets
