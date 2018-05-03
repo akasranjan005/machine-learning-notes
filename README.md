@@ -33,3 +33,4 @@ Machine Learning is an application of AI. The hierarchy is:
 * https://www.reddit.com/r/datasets
 * https://research.google.com/youtube8m
 * http://www.image-net.org
+* https://github.com/awesomedata/awesome-public-datasets
