@@ -11,9 +11,9 @@ Machine Learning is an application of AI. The hierarchy is:
 
 ## Data Cleaning
 ## Visualisation
-  * matplotlib
+  * [Matplotlib](https://matplotlib.org/)
   * Plotly + cufflinks
-  * Seaborn
+  * [Seaborn](https://seaborn.pydata.org/)
 ## Regression
 ## Classification
 ## Deep Learning
