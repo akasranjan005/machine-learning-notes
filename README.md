@@ -1,4 +1,6 @@
+![alt text](http://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/introduction-to-machine-learning_social.png?1510178550)
 # machine-learning-notes
+
 
 Machine Learning is an application of AI. The hierarchy is:
  * AI
@@ -6,10 +8,18 @@ Machine Learning is an application of AI. The hierarchy is:
      * Deep Learning
      * Capsule Network
      
+**Machine Learning and deep learning**
+![alt text](http://https://semiengineering.com/wp-content/uploads/2018/01/MLvsDL.png)
+     
 * ToDo:
   * Create Dockerfile for deploying machine learning container with all installed packages
 
 ## Data Cleaning
+* Data cleansing or data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record     set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then             replacing, modifying, or deleting the dirty or coarse data.
+
+![alt text](http://3.imimg.com/data3/JR/VP/MY-10451527/data-cleansing-normalization-500x500.jpg)
+
+
 ## Visualisation
   * [Matplotlib](https://matplotlib.org/)
   * Plotly + cufflinks
@@ -19,6 +29,8 @@ Machine Learning is an application of AI. The hierarchy is:
 
 * The more general case is Multi Variable Linear Regression where a model is created for the relationship between multiple independent input variables (feature variables) and an output dependent variable. The model remains linear in that the output is a linear combination of the input variables. 
 
+![alt text](https://cdn-images-1.medium.com/max/1600/1*iuqVEjdtEMY8oIu3cGwC1g.png)
+
 ## Classification
 * Classification is the process of predicting the class of given data points. Classes are sometimes called as targets/ labels or categories. Classification predictive modeling is the task of approximating a mapping function (f) from input variables (X) to discrete output variables (y).
 
@@ -26,7 +38,10 @@ Machine Learning is an application of AI. The hierarchy is:
 
 * Classification belongs to the category of supervised learning where the targets also provided with the input data. There are many applications in classification in many domains such as in credit approval, medical diagnosis, target marketing etc.
 
+  ![alt text](https://i.stack.imgur.com/stYyQ.png)
+
 ## Deep Learning
+    Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning         methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised     or unsupervised.
 
 ## Tools and Libraries
 
