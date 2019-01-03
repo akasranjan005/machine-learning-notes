@@ -41,7 +41,8 @@ Machine Learning is an application of AI. The hierarchy is:
   ![alt text](https://i.stack.imgur.com/stYyQ.png)
 
 ## Deep Learning
-    Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning         methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised     or unsupervised.
+    
+Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine  learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised.
 
 ## Tools and Libraries
 
